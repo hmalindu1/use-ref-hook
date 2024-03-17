@@ -10,7 +10,7 @@ export const MEANING_DATA: MeaningDataType[] = [
     description: "Fingers crossed, I wish you Good Luck!",
   },
   {
-    name: "Perfecet",
+    name: "Perfect",
     description: "This is Perfect!",
   },
   {

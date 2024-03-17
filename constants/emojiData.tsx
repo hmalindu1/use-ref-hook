@@ -3,15 +3,15 @@ import { EmojiDataType } from "@/types/types";
 export const EMOJI_DATA: EmojiDataType[] = [
   {
     icon: "🖖",
-    name: "Prosper"
+    name: "Prosper",
   },
   {
     icon: "🤞",
-    name: "Luck"
+    name: "Luck",
   },
   {
     icon: "👌",
-    name: 'Perfecet'
+    name: "Perfect",
   },
   {
     icon: "🤟",
